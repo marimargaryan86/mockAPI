@@ -1,0 +1,9 @@
+{
+    "status": "success",
+    "message": "Activation link is successfully sent, please check your inbox to complete your registration.",
+    "data": {
+        "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpLXN0YWdlLnNtYXJ0cHVzaC5haVwvcmVnaXN0ZXIiLCJpYXQiOjE2NTA5NzU0MDYsImV4cCI6MTY1MTU4MDIwNiwibmJmIjoxNjUwOTc1NDA2LCJqdGkiOiJucTk1WFd1UzgwdjVoVU1PIiwic3ViIjoxMTAxLCJwcnYiOiJmZDRhNmJlYjhkNjRkNzYyY2FlNGI2ZTZjYjZiZjcwN2U3ZjE2ZTNhIiwiYXBpX2tleSI6bnVsbCwicGNhIjoxNjUwOTc1NDAyfQ.BolThZH9AlqurjUGp_D6RwdnjoAWaFTzwq_3u-uz1IY",
+        "token_type": "bearer",
+        "expires_in": 604800
+    }
+}
