@@ -8,7 +8,7 @@
   "profile": {
     "name": "smartpush"
   },
-  "users":{
+  "users":[
     {
     "status": "success",
     "message": "Activation link is successfully sent, please check your inbox to complete your registration.",
@@ -18,5 +18,5 @@
         "expires_in": 604800
     }
 }
-  }
+  ]
 }
